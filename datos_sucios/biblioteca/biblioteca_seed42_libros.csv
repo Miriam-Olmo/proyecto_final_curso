@@ -1,0 +1,201 @@
+id_libro,titulo,autor,anio_publicacion,editorial,generos
+L0001,El sombra del norte,Albano Llopis Hierro,1986,Anagrama,historica;biografia
+L0002,El memoria imposible,Buenaventura de Bonet,1959,Alfaguara,fantasia
+L0003,El isla de arena,Ileana Antón-Andrés,1958,Salamandra,biografia;poesia
+L0004,El codigo de arena,César Guerrero Vazquez,1990,Alfaguara,poesia;ensayo
+L0005,La viaje de medianoche,Alba Mar Flor Rivas,1998,Alfaguara,poesia
+L0006,El mapa de papel,Jacobo del Agudo,1988,Alfaguara,biografia;historica;poesia
+L0007,El isla del norte,Paco Rocamora Nieto,2001,Salamandra,historica;novela negra
+L0008,El jardin de cristal,Casemiro Garrido-Navarro,1984,Alfaguara,romantica;juvenil;ensayo
+L0009,El mapa de papel,Arturo Pinto Caballero,1981,Paginas de Espuma,historica;ciencia ficcion
+L0010,El viaje de los suenos,Soraya Núñez Lamas,2003,Planeta,ensayo;novela negra
+L0011,El sombra de papel,Pánfilo Segovia Casanovas,2006,Planeta,fantasia
+L0012,La silencio de los suenos,Ani Marcos Pardo,2005,Paginas de Espuma,ciencia ficcion;romantica;terror
+L0013,El espejo prohibido,Celia Baños-Arroyo,2023,Planeta,terror;poesia;ensayo
+L0014,El viaje prohibido,Rolando del Bernal,2018,Alfaguara,historica
+L0015,El puente sin nombre,Toribio de Pinto,2009,Salamandra,poesia
+L0016,La memoria de los suenos,Javi Patiño-Cánovas,2022,Planeta,historica
+L0017,La puente de papel,Felicidad Gallego Lasa,1969,Planeta,ciencia ficcion;juvenil;novela negra
+L0018,La isla sin nombre,Marco Donoso Hierro,2019,Alfaguara,biografia;fantasia
+L0019,El mapa sin nombre,Jerónimo Pino Lerma,2024,Salamandra,terror
+L0020,La codigo del olvido,Constanza del Barba,1969,Planeta,fantasia;novela negra
+L0021,El memoria de cristal,Segismundo de Moles,1965,Paginas de Espuma,historica;biografia;ciencia ficcion
+L0022,El puente de los suenos,Edelmira Batalla Galván,2025,Anagrama,biografia;poesia
+L0023,El isla de medianoche,Valentina Miranda-Garcia,1994,Impedimenta,juvenil;biografia
+L0024,La casa de medianoche,Gertrudis Segarra Clavero,1983,Alfaguara,novela negra;biografia
+L0025,El memoria de medianoche,Buenaventura Huerta-Jódar,1955,Alfaguara,fantasia
+L0026,El sombra de papel,Inés Pujol-Paredes,1964,Salamandra,romantica;juvenil
+L0027,El isla sin nombre,Bruno del Bou,2015,Anagrama,poesia;fantasia;historica
+L0028,El puente imposible,Tito Canals Coronado,2000,Impedimenta,juvenil;novela negra;historica
+L0029,El invierno de papel,Ruy Roca Bartolomé,1968,Anagrama,fantasia;biografia
+L0030,La viaje imposible,Francisca Solé Ángel,1978,Planeta,fantasia;historica;juvenil
+L0031,El sombra prohibido,Leonel Alberdi-Carbó,1956,Alfaguara,ciencia ficcion;poesia
+L0032,La codigo de medianoche,Pili del Nieto,2006,Alfaguara,poesia;novela negra
+L0033,La jardin de los suenos,Eugenio Royo Cruz,1991,Impedimenta,ciencia ficcion;fantasia;romantica
+L0034,El sombra de arena,Abril Lago Valle,2024,Alfaguara,novela negra;terror
+L0035,La isla prohibido,José Luis Camino Martín,1975,Alfaguara,ciencia ficcion
+L0036,El memoria de cristal,María Fernanda Flor,1985,Impedimenta,terror
+L0037,El memoria de arena,Glauco Cuéllar Abascal,1960,Salamandra,poesia
+L0038,La jardin de medianoche,Etelvina Laura Aliaga Caparrós,1995,Anagrama,poesia;ciencia ficcion
+L0039,La codigo de papel,Valeria Meléndez Heras,1964,Alfaguara,terror;historica;biografia
+L0040,El isla del norte,Dionisio Bermúdez Boada,1971,Planeta,fantasia
+L0041,La jardin sin nombre,Sabina Bayón Casas,2011,Salamandra,terror;biografia
+L0042,El puente prohibido,Narciso Talavera Dalmau,1993,Paginas de Espuma,ciencia ficcion
+L0043,La casa de cristal,Juan Luis Rocha-Galán,2025,Anagrama,romantica;fantasia
+L0044,La silencio del norte,Priscila de Mesa,2019,Impedimenta,novela negra;historica
+L0045,La jardin del olvido,Nazaret Perea Ríos,1955,Planeta,romantica;ciencia ficcion
+L0046,La isla imposible,Jennifer Carrillo,1956,Alfaguara,ciencia ficcion
+L0047,El mapa de arena,Daniel de Neira,2025,Anagrama,ciencia ficcion;novela negra;romantica
+L0048,La sombra de papel,Macario Grau Giménez,1981,Paginas de Espuma,historica;ensayo
+L0049,La memoria sin nombre,Andrés Felipe Barral Granados,1985,Anagrama,poesia;novela negra
+L0050,El espejo de papel,Víctor Angulo Murillo,2007,Paginas de Espuma,romantica;ciencia ficcion
+L0051,El invierno del olvido,José Ángel Gárate Lopez,2015,Anagrama,juvenil;ensayo
+L0052,La silencio de medianoche,Clotilde Catalán Suárez,1958,Paginas de Espuma,poesia;ensayo
+L0053,La casa del norte,Ruben del Ramírez,1999,Paginas de Espuma,biografia;ensayo;novela negra
+L0054,El jardin sin nombre,Asdrubal Caballero,1988,Alfaguara,terror
+L0055,La mapa de papel,Felicidad Roda Reig,2010,Salamandra,poesia
+L0056,El jardin del olvido,Teresa Balaguer Cabello,2010,Alfaguara,ensayo;poesia
+L0057,El puente de papel,Heriberto Nicolau Canales,1995,Paginas de Espuma,romantica
+L0058,La puente imposible,Clemente de Sanabria,1996,Impedimenta,biografia;ciencia ficcion
+L0059,El invierno imposible,Héctor Español Lopez,1977,Salamandra,poesia;biografia
+L0060,El jardin del norte,Diana Benet Salazar,1981,Impedimenta,juvenil;terror
+L0061,La puente de medianoche,Ariel de Alcolea,2020,Impedimenta,historica;romantica
+L0062,La casa de medianoche,Renato Guzmán Delgado,1994,Anagrama,ciencia ficcion;novela negra
+L0063,El silencio de los suenos,Julieta Teruel García,1964,Impedimenta,terror;fantasia;poesia
+L0064,La invierno de medianoche,Yaiza Barral Cózar,1973,Paginas de Espuma,historica
+L0065,La silencio sin nombre,Abril Portero Lara,2021,Impedimenta,biografia
+L0066,El casa de los suenos,Eloísa Rocha Torrecilla,1972,Impedimenta,juvenil;biografia
+L0067,La isla de los suenos,Claudio Martin Gelabert,1975,Paginas de Espuma,juvenil;romantica;fantasia
+L0068,La isla de los suenos,Luis Miguel Barrera Mir,1985,Planeta,historica;romantica;fantasia
+L0069,La mapa de papel,Amador Tapia Valverde,2024,Alfaguara,ciencia ficcion;fantasia
+L0070,La espejo sin nombre,Camila Barberá,1982,Alfaguara,poesia;ensayo;juvenil
+L0071,La sombra de medianoche,Anita Estevez,2008,Impedimenta,terror
+L0072,La codigo del olvido,Manuel Bayo Gutierrez,2000,Planeta,poesia;biografia;fantasia
+L0073,La silencio del norte,Azeneth Hoz Ariño,2010,Impedimenta,poesia
+L0074,La puente imposible,Anita Hortensia Yáñez Molina,1976,Impedimenta,terror;biografia
+L0075,El invierno de arena,Cristian Miralles-Gómez,1958,Alfaguara,ciencia ficcion;juvenil;terror
+L0076,El jardin imposible,Hector Castro-Marín,1996,Anagrama,ensayo;terror;poesia
+L0077,La invierno del norte,Estela Belmonte Agustí,1965,Impedimenta,biografia
+L0078,El mapa de medianoche,María Ángeles Cabo Beltrán,1963,Paginas de Espuma,novela negra
+L0079,El silencio del olvido,Clotilde del Cazorla,1974,Anagrama,juvenil;historica
+L0080,El codigo del norte,Vera Bayona Hidalgo,2002,Anagrama,ciencia ficcion
+L0081,La casa de arena,Elodia Cruz Ríos,1958,Planeta,poesia;fantasia;historica
+L0082,El casa del norte,Ofelia del Ángel,1970,Salamandra,ensayo
+L0083,La puente de papel,Nazario Marí Calleja,1963,Salamandra,novela negra;poesia
+L0084,La casa imposible,Eligio Carlos Campo,2001,Paginas de Espuma,ciencia ficcion;poesia;terror
+L0085,La memoria prohibido,Calixta del Luján,2016,Impedimenta,terror;romantica;ensayo
+L0086,El casa del norte,Clementina Paca Novoa Frutos,2012,Anagrama,terror;poesia;ensayo
+L0087,El codigo de papel,José Antonio Torres-Iglesias,1978,Impedimenta,ensayo;romantica
+L0088,La jardin de arena,Arturo Roda Lloret,1990,Salamandra,biografia
+L0089,El casa de medianoche,Abel Múgica Castrillo,2007,Impedimenta,juvenil;terror
+L0090,La sombra de cristal,Cecilio Sala-Roma,1992,Anagrama,fantasia;romantica;ensayo
+L0091,La isla prohibido,Adelia de Benet,1999,Impedimenta,ensayo;juvenil
+L0092,La jardin del norte,Leandro Araujo Peiró,1984,Alfaguara,ensayo;historica
+L0093,El silencio de medianoche,Mamen Colomer-Ropero,2016,Planeta,historica;fantasia
+L0094,La silencio de papel,Alfonso Mendez Pastor,1977,Planeta,biografia
+L0095,El jardin del olvido,Vinicio Pallarès Gallo,1961,Salamandra,ciencia ficcion;juvenil
+L0096,El sombra de arena,Nazario de Otero,1991,Impedimenta,juvenil;ensayo;ciencia ficcion
+L0097,El jardin de los suenos,Verónica del Cortes,1969,Alfaguara,juvenil;historica;novela negra
+L0098,El viaje de arena,Toni de Elorza,1993,Alfaguara,historica;biografia
+L0099,La memoria de arena,Aitana Escobar Márquez,1983,Salamandra,juvenil;terror;romantica
+L0100,La jardin de arena,Rosario Hurtado Lasa,1962,Salamandra,fantasia
+L0101,El jardin de cristal,Rufino Campoy Piñeiro,1975,Anagrama,biografia;historica
+L0102,El sombra imposible,Timoteo Sosa Girón,2012,Paginas de Espuma,romantica;novela negra;fantasia
+L0103,La espejo del norte,Sebastian Seguí,2013,Alfaguara,romantica;fantasia
+L0104,La casa prohibido,Encarnación Goñi Gisbert,1983,Paginas de Espuma,romantica;ciencia ficcion
+L0105,El sombra sin nombre,Narciso Ferrando Pujadas,1994,Salamandra,juvenil;historica
+L0106,La espejo del norte,Eligia Baños Lorenzo,2006,Planeta,juvenil;historica;novela negra
+L0107,La espejo de papel,Miguela Vergara Pulido,1987,Alfaguara,fantasia
+L0108,El puente del norte,Eusebia de Carlos,1960,Anagrama,biografia;juvenil;romantica
+L0109,El memoria imposible,Chuy Lara-Arenas,2017,Alfaguara,ensayo;poesia;terror
+L0110,La puente de cristal,Marc Rovira Ojeda,1975,Planeta,juvenil;romantica;poesia
+L0111,El codigo de cristal,Isa Vidal Carlos,1995,Planeta,historica;poesia
+L0112,El puente prohibido,Ximena Falcón Iñiguez,2014,Impedimenta,fantasia
+L0113,La memoria de los suenos,Paulino Rubio Abellán,2011,Alfaguara,romantica;biografia
+L0114,El jardin de los suenos,Ángela Figueras,2017,Alfaguara,terror
+L0115,El espejo sin nombre,Irene Becerra Murillo,1994,Salamandra,biografia
+L0116,La casa de medianoche,Estefanía Narcisa Casanovas Mas,1969,Impedimenta,ciencia ficcion
+L0117,La espejo del norte,Esmeralda Real,2020,Paginas de Espuma,poesia;juvenil
+L0118,La silencio de los suenos,Graciana Marqués Castejón,2025,Anagrama,fantasia;biografia;ciencia ficcion
+L0119,El jardin imposible,Humberto Pinilla,1998,Salamandra,novela negra;romantica
+L0120,La memoria de arena,Mario Mascaró Ramis,2017,Anagrama,biografia;juvenil;ensayo
+L0121,La isla prohibido,Serafina de Mateu,2003,Impedimenta,fantasia;terror
+L0122,La silencio imposible,Cruz Ildefonso Montserrat Sola,1960,Planeta,poesia;terror;ciencia ficcion
+L0123,La sombra sin nombre,Isaura García Vicente,2019,Salamandra,historica;juvenil
+L0124,El isla de los suenos,Rosalina Doménech Blazquez,1956,Paginas de Espuma,poesia;ciencia ficcion
+L0125,El codigo del norte,José Ángel Natanael Naranjo Bueno,1998,Salamandra,historica;ensayo;poesia
+L0126,La puente de los suenos,Nicodemo del Gomila,2024,Alfaguara,fantasia
+L0127,La silencio de cristal,Candelario Amat,2010,Alfaguara,juvenil
+L0128,El espejo del norte,Donato Talavera Beltran,1958,Alfaguara,novela negra;romantica
+L0129,La mapa imposible,Herminia Ferreras Plana,1973,Anagrama,terror;ciencia ficcion;biografia
+L0130,El casa de arena,Gloria Hervás Coloma,2003,Salamandra,juvenil;ciencia ficcion
+L0131,El codigo del norte,Victoriano Campillo Rodríguez,2013,Planeta,juvenil
+L0132,La puente prohibido,Chus del Ayllón,1975,Alfaguara,ensayo;romantica;poesia
+L0133,La codigo del norte,Diana de Sastre,1980,Impedimenta,historica;fantasia;poesia
+L0134,La memoria del norte,Salvador Sobrino Molins,1992,Alfaguara,romantica;novela negra;biografia
+L0135,La jardin de medianoche,María José Vargas Roldan,2000,Anagrama,terror;romantica
+L0136,El puente de cristal,Itziar de Taboada,1960,Planeta,novela negra;ensayo;ciencia ficcion
+L0137,El jardin de papel,Dora Huertas Lluch,2008,Anagrama,ciencia ficcion;biografia
+L0138,La isla prohibido,Julieta Haro,1989,Anagrama,juvenil;romantica
+L0139,La casa de los suenos,Isidro Berenguer-Macias,1964,Anagrama,poesia;biografia
+L0140,La casa imposible,Elías del Montenegro,1956,Planeta,juvenil
+L0141,La puente del norte,Anita de Contreras,2003,Paginas de Espuma,historica;fantasia
+L0142,La sombra de arena,Gregorio de Gargallo,1996,Salamandra,historica;juvenil
+L0143,La puente imposible,Hipólito Ramón Muro,1969,Anagrama,novela negra
+L0144,La codigo de cristal,Josefa del Barrios,1967,Anagrama,poesia;juvenil
+L0145,La puente prohibido,Sigfrido Rivera,2008,Salamandra,poesia;historica
+L0146,La memoria imposible,Yolanda Aller Pintor,1990,Alfaguara,fantasia;juvenil
+L0147,La silencio de papel,Adelaida Ortiz Martín,1967,Paginas de Espuma,biografia;ensayo
+L0148,El invierno del norte,Tamara Rius Giménez,1979,Alfaguara,historica;fantasia;novela negra
+L0149,El mapa de medianoche,Constanza Llamas Ruano,1971,Salamandra,historica;biografia
+L0150,El memoria de medianoche,Albina Porcel Navarrete,1984,Planeta,terror;novela negra
+L0151,La viaje sin nombre,Paloma Dalmau Solsona,2024,Planeta,historica;novela negra
+L0152,El sombra de papel,María Amores Prada,1985,Salamandra,novela negra;ciencia ficcion
+L0153,La sombra sin nombre,Marcela Amores-Blanes,2008,Salamandra,historica
+L0154,La codigo de papel,Bernarda Serrano Espada,2020,Salamandra,juvenil
+L0155,El memoria del olvido,Eladio Pinilla Morán,2021,Planeta,novela negra;terror;juvenil
+L0156,La invierno de cristal,Javi Morillo,2017,Paginas de Espuma,historica;terror;ensayo
+L0157,El casa sin nombre,Pía Pinilla Lobo,1990,Salamandra,poesia;biografia
+L0158,La codigo prohibido,Dolores Bilbao Sosa,2010,Alfaguara,biografia
+L0159,El invierno de los suenos,Reinaldo Azorin Olmo,1984,Impedimenta,juvenil;poesia
+L0160,La espejo de cristal,Moreno de Arjona,1995,Impedimenta,romantica;ensayo
+L0161,El puente de los suenos,Duilio Flores Almagro,1963,Alfaguara,historica
+L0162,La casa de papel,Calista Dafne Cases Sáenz,1971,Salamandra,terror
+L0163,La puente de cristal,Lope Gibert Sola,2007,Planeta,novela negra;romantica;biografia
+L0164,La casa de arena,Rodolfo Peinado-Diez,2019,Anagrama,juvenil;fantasia
+L0165,El mapa prohibido,María Dolores Piedad Carbó Céspedes,2002,Alfaguara,terror;fantasia
+L0166,La isla de arena,Baltasar Luis Miguel Amigó Mesa,1958,Salamandra,novela negra;ciencia ficcion
+L0167,La espejo del norte,Nicolasa Perez-Puente,1998,Planeta,ciencia ficcion
+L0168,El memoria imposible,Anselmo Herrero,1963,Anagrama,historica
+L0169,El invierno imposible,Pablo Mata Carrillo,2013,Planeta,ensayo;romantica
+L0170,La memoria de arena,Ricarda Armengol-Olivera,1965,Alfaguara,ciencia ficcion;novela negra
+L0171,El jardin de los suenos,Inés del Bayón,2009,Impedimenta,poesia;romantica;fantasia
+L0172,El mapa imposible,Miriam Nogueira,1969,Planeta,biografia;romantica;novela negra
+L0173,El invierno de arena,Teobaldo Rivera Trillo,1962,Alfaguara,romantica;fantasia
+L0174,El jardin del norte,Inocencio Paredes Segura,1996,Alfaguara,juvenil
+L0175,La viaje sin nombre,Isaac Echeverría Vélez,2003,Salamandra,biografia;terror
+L0176,La casa imposible,Mario Tomás-Sola,1960,Impedimenta,juvenil
+L0177,El mapa de arena,Sara Ledesma Mora,2009,Salamandra,poesia;romantica;historica
+L0178,La sombra de papel,Severo de Lorenzo,1976,Salamandra,ensayo;historica;poesia
+L0179,El silencio imposible,Daniela Sobrino Pinilla,2006,Salamandra,poesia
+L0180,La espejo de papel,Albina Urrutia Morcillo,1983,Planeta,historica;biografia
+L0181,El isla prohibido,Jose Francisco Garay Pacheco,1979,Planeta,ciencia ficcion;fantasia
+L0182,El viaje del norte,Francisco Losa-Llorente,1980,Anagrama,historica;ciencia ficcion
+L0183,La codigo de arena,Adelina de Boada,2012,Paginas de Espuma,ensayo;ciencia ficcion
+L0184,La casa de los suenos,Plácido del Torres,2011,Paginas de Espuma,romantica;novela negra
+L0185,La isla de cristal,Purificación de Tamayo,1994,Impedimenta,novela negra;terror;ensayo
+L0186,La casa de cristal,Jacinta Alemany Buendía,2019,Impedimenta,terror;biografia;novela negra
+L0187,La memoria de medianoche,Dan Hermenegildo Hervia Medina,1996,Salamandra,biografia;ciencia ficcion;novela negra
+L0188,La casa de papel,Flor Sáenz-Núñez,1965,Salamandra,novela negra;fantasia
+L0189,La codigo prohibido,Petrona Muro Ortiz,2021,Salamandra,ensayo;terror
+L0190,La invierno imposible,Elba Medina Iglesias,1998,Paginas de Espuma,ensayo
+L0191,El mapa de cristal,Benito de Moles,2004,Planeta,terror;ciencia ficcion
+L0192,La casa de arena,Ramiro Esteve Feliu,1973,Planeta,poesia;ciencia ficcion
+L0193,El jardin prohibido,Rafael Tomé,2003,Paginas de Espuma,ciencia ficcion;biografia
+L0194,El puente imposible,Porfirio Zamorano-Luna,2020,Planeta,ensayo
+L0195,La viaje de medianoche,Sigfrido Ferrera Marti,1998,Impedimenta,fantasia;ciencia ficcion
+L0196,El casa del norte,Geraldo de Mate,1967,Salamandra,ensayo
+L0197,El memoria imposible,Paulino Castañeda Lledó,1974,Anagrama,terror;ciencia ficcion
+L0198,La sombra imposible,Amando Manzano Cases,2001,Paginas de Espuma,juvenil;romantica
+L0199,La silencio prohibido,Aroa Alberola Luís,1985,Planeta,fantasia;ensayo;juvenil
+L0200,La jardin imposible,Julia Saez Niño,2019,Salamandra,ciencia ficcion;fantasia;terror
