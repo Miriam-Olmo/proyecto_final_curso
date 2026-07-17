@@ -44,14 +44,14 @@ def comentario(df_excel_prestamos):
         .fillna('')
         .astype(str)
         .str.strip()
-        .str.title()
+        .str.capitalize()
     )
     return df_excel_prestamos
 
 
 def limpieza_dias_prestamo(df_excel_prestamos):
     df_excel_prestamos['dias_prestamo'] = pd.to_numeric(df_excel_prestamos['dias_prestamo'], errors='coerce')
-    media = df_excel_prestamos['dias_prestamo'].mean()
+    media = round(df_excel_prestamos['dias_prestamo'].mean(),2)
     df_excel_prestamos['dias_prestamo'] = df_excel_prestamos['dias_prestamo'].fillna(media)
     return df_excel_prestamos
 
@@ -59,17 +59,16 @@ def limpieza_dias_prestamo(df_excel_prestamos):
 def limpieza_perfil_socio(df_excel_prestamos):
     df_excel_prestamos['perfil_socio'] = (
         df_excel_prestamos['perfil_socio']
-        .fillna('desconocido')
         .astype(str)
         .str.strip()
-        .replace('', 'desconocido')
+        .fillna('desconocido')
         .str.title()
     )
     return df_excel_prestamos
 
 
 def normalizacion_id_prestamo(df_excel_prestamos):
-    df_excel_prestamos['id_prestamo'] = df_excel_prestamos['id_prestamo'].astype(str).str.strip()
+    df_excel_prestamos['id_prestamo'] = df_excel_prestamos['id_prestamo']
     return df_excel_prestamos
 
 
@@ -88,5 +87,5 @@ def limpieza_generos_l(df_excel_libros):
 
 
 def id_libro(df_excel_libros):
-    df_excel_libros['id_libro'] = df_excel_libros['id_libro'].astype(str).str.strip()
+    df_excel_libros['id_libro'] = df_excel_libros['id_libro']
     return df_excel_libros
