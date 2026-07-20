@@ -21,14 +21,15 @@ def get_connection():
 
 def insert_prestamos(df_prestamos_limpios):
     sql = """INSERT INTO prestamos(
-                fecha,
+                id_prestamo, fecha,
                 id_libro, generos,
                 formato, perfil_socio,
                 sala, dias_prestamo, renovaciones,
                 dias_retraso, comentario)
-             VALUES ( %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
 
-    columnas = ['fecha', 'id_libro', 'generos',
+    columnas = ['id_prestamo','fecha',
+                'id_libro', 'generos',
                 'formato', 'perfil_socio', 'sala', 'dias_prestamo',
                 'renovaciones', 'dias_retraso', 'comentario']
 

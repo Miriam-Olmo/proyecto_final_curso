@@ -68,8 +68,8 @@ def limpieza_perfil_socio(df_excel_prestamos):
 
 
 def normalizacion_id_prestamo(df_excel_prestamos):
-    df_excel_prestamos['id_prestamo'] = df_excel_prestamos['id_prestamo']
-    return df_excel_prestamos
+    df_excel_prestamos = df_excel_prestamos.copy()
+    return df_excel_prestamos.drop_duplicates(subset=['id_prestamo'], keep='first')
 
 
 ## libros
