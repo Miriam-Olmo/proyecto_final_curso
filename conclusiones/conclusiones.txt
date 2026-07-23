@@ -1,0 +1,103 @@
+Análisis Exploratorio de Datos (EDA) sobre la base de datos de la biblioteca:
+
+1. Descripción general de las tablas:
+- Catálogo de libros:
+  • Total de libros: 200 ejemplares.
+  • No se reportan libros sin préstamos, por lo que todos los ejemplares tienen algún nivel de uso.
+
+- Actividad de préstamos:
+  • Total de préstamos registrados: 10,000.
+  • El promedio general de préstamos por libro es 10,000 / 200 = 50 préstamos por libro.
+
+2. Distribución por variables principales:
+
+a) Distribución por género (préstamos totales y porcentaje sobre el total):
+- Ciencia ficción / fantasía / terror: 497 (4.97%)
+- Poesía: 443 (4.43%)
+- Histórica / novela negra: 409 (4.09%)
+- Fantasía: 384 (3.84%)
+- Ensayo / novela negra: 344 (3.44%)
+- Poesía / novela negra: 335 (3.35%)
+- Juvenil / novela negra / histórica: 296 (2.96%)
+- Histórica: 296 (2.96%)
+- Terror: 284 (2.84%)
+- Novela negra / terror: 241 (2.41%)
+
+Observación: La distribución de préstamos está relativamente dispersa, sin una concentración excesiva en un solo género. Sin embargo, los géneros relacionados con novela negra y terror aparecen recurrentemente en combinaciones, indicando popularidad sostenida.
+
+b) Distribución por autor (top 10 autores por número de préstamos):
+- Julia Saez Niño: 497 préstamos
+- Paco Rocamora Nieto: 361
+- Soraya Núñez Lamas: 344
+- Tito Canals Coronado: 296
+- Pili Del Nieto: 259
+- Abril Lago Valle: 241
+- Priscila De Mesa: 228
+- Daniel De Neira: 217
+- Renato Guzmán Delgado: 182
+- Ruben Del Ramírez: 182
+
+El autor con mayor demanda representa un 4.97% de los préstamos totales, indicando una base de lectores que buscan autores concretos.
+
+c) Distribución por editorial (préstamos totales por editorial):
+- Alfaguara: 2,181 préstamos (21.81%)
+- Salamandra: 1,983 (19.83%)
+- Planeta: 1,695 (16.95%)
+- Impedimenta: 1,556 (15.56%)
+- Anagrama: 1,483 (14.83%)
+- Páginas de Espuma: 1,102 (11.02%)
+
+Las 6 editoriales principales concentran el 100% de los préstamos reportados entre ellas, mostrando fuerte concentración editorial con Alfaguara y Salamandra como líderes.
+
+d) Top 10 libros más prestados:
+- "La jardin imposible" (Julia Saez Niño): 497 préstamos
+- "El isla del norte" (Paco Rocamora Nieto): 361
+- "El viaje de los suenos" (Soraya Núñez Lamas): 344
+- "El puente imposible" (Tito Canals Coronado): 296
+- "La codigo de medianoche" (Pili Del Nieto): 259
+- "El sombra de arena" (Abril Lago Valle): 241
+- "La silencio del norte" (Priscila De Mesa): 228
+- "El mapa de arena" (Daniel De Neira): 217
+- "La casa del norte" (Ruben Del Ramírez): 182
+- "La casa de medianoche" (Renato Guzmán Delgado): 182
+
+Estos 10 títulos representan aproximadamente 2,967 préstamos, lo que es casi el 29.7% del total, indicando una fuerte concentración en un pequeño grupo de libros.
+
+3. Identificación de patrones, tendencias y anomalías:
+
+- Concentración de la demanda: 
+  Un pequeño número de libros (top 10) atraen casi el 30% de todos los préstamos, lo que muestra una clara concentración en títulos específicos con alta rotación.
+
+- Relación entre autores y libros más prestados:
+  Los autores del top 10 coinciden con los libros más prestados, confirmando que ciertos autores tienen una fuerte tracción.
+
+- Editoriales con mayor volumen de préstamos:
+  Las editoriales top parecen publicar los títulos más demandados, sugiriendo alianzas o adquisiciones enfocadas en estos sellos editoriales.
+
+- Diversidad de géneros:
+  La oferta y demanda están distribuidas entre múltiples géneros, pero con fuerte presencia de novela negra, terror y poesía, si bien ninguna de estas categorías domina de forma absoluta.
+
+- No se reportan libros sin préstamos, lo cual en principio sugiere uso equilibrado del catálogo, aunque sin detalle de libros con muy baja rotación.
+
+4. Hallazgos críticos:
+
+- Existe un desequilibrio en la rotación del catálogo, con un pequeño porcentaje de libros que concentran una gran parte de la demanda.
+- Los géneros novela negra y terror, y sus combinaciones con otros géneros, son recurrentes entre los más prestados, lo que podría reflejar tendencias claras de preferencia de los usuarios.
+- La concentración de préstamos entre pocas editoriales indica que la selección del catálogo podría estar influenciada por esos sellos, afectando la diversidad editorial.
+- Los libros fuera del top 10 probablemente tengan rotaciones mucho menores, aunque no se proporcionan datos específicos para cuantificar riesgo de ejemplares infrautilizados.
+
+5. Recomendaciones para optimización de la biblioteca:
+
+a) Fortalecer la adquisición y promoción de libros en géneros con alta demanda recurrente (novela negra, terror, poesía) para satisfacer la preferencia de los usuarios y mantener alta rotación.
+
+b) Realizar un inventario detallado sobre la rotación de los libros fuera del top 10 para identificar ejemplares infrautilizados que podrían ser retirados, redistribuidos o dados de baja para optimizar espacio y recursos.
+
+c) Diversificar la oferta editorial más allá de las editoriales top para evitar dependencias y ampliar la variedad para atraer nuevos públicos y fomentar descubrimiento.
+
+d) Promover los títulos con menor circulación mediante campañas de sensibilización o eventos temáticos que incentiven la demanda de libros menos prestados, para equilibrar la rotación.
+
+e) Mantener y reforzar las colecciones de autores con alta demanda, considerando negociaciones para ampliar títulos de esos autores o autoras similares.
+
+f) Analizar temporalmente (si se dispone de datos futuros) los pedidos por períodos para detectar estacionalidad o picos de demanda que permitan optimizar el préstamo y la gestión de stock.
+
+Este análisis se basa exclusivamente en los datos proporcionados, sin realizar suposiciones externas. El enfoque sobre la concentración de la demanda y la diversificación del catálogo se sustenta en las métricas observadas en préstamos, autores y editoriales.
