@@ -1,0 +1,110 @@
+Análisis Exploratorio de Datos (EDA) - Gestión de Biblioteca  
+Fecha Informe: 27-07-2026 19:24  
+
+---
+
+### 1. Métricas descriptivas generales  
+
+- Total libros en catálogo: **200**  
+- Total préstamos registrados: **10,000**  
+- Promedio de préstamos por libro: 10,000 / 200 = **50 préstamos/libro**  
+- Número de libros sin préstamos: **0** (según dato "libros_sin_prestamos": [])  
+
+---
+
+### 2. Análisis del catálogo por variables disponibles
+
+- **Autores**  
+  - Top 10 autores concentran los préstamos más altos asignados (entre 182 y 497 préstamos).  
+  - Autor con más préstamos: Julia Saez Niño (497 préstamos).  
+
+- **Editoriales**  
+  - Seis editoriales con mayor número de préstamos:  
+    - Alfaguara (2181 préstamos, 21.81% del total)  
+    - Salamandra (1983 préstamos, 19.83%)  
+    - Planeta (1695 préstamos, 16.95%)  
+    - Impedimenta (1556 préstamos, 15.56%)  
+    - Anagrama (1483 préstamos, 14.83%)  
+    - Páginas de Espuma (1102 préstamos, 11.02%)  
+  - Nota: La suma de estos es 10,000+ préstamos (en realidad 10,000 en total), parece cubrir el total o muy cercano, por lo que estos editores dominan la oferta.  
+
+- **Géneros (por número de préstamos y porcentaje)**  
+  - Ciencia ficción / fantasía / terror - 497 préstamos (4.97%)  
+  - Poesía - 443 (4.43%)  
+  - Histórica / novela negra - 409 (4.09%)  
+  - Fantasía (solo) - 384 (3.84%)  
+  - Ensayo / novela negra - 344 (3.44%)  
+  - Poesía / novela negra - 335 (3.35%)  
+  - Juvenil / novela negra / histórica - 296 (2.96%)  
+  - Histórica (solo) - 296 (2.96%)  
+  - Terror (solo) - 284 (2.84%)  
+  - Novela negra / terror - 241 (2.41%)  
+
+  Nota: Los géneros están mezclados y solapados, lo que dificulta segmentar estrictamente categorías exclusivas. Sin embargo, los géneros relacionados con novela negra, fantasía, terror y poesía tienen participación significativa.  
+
+- **Información Año de publicación / otros atributos no proporcionados**  
+  - No se dispone información para análisis temporal del catálogo.  
+
+---
+
+### 3. Análisis de la actividad de préstamos  
+
+- Existe concentración de la demanda en ciertos libros:  
+  - El libro con más préstamos ("La jardin imposible") representa el 497/10,000 = 4.97% del total.  
+  - Los libros en el top 10 acumulan:  
+    497 + 361 + 344 + 296 + 259 + 241 + 228 + 217 + 182 + 182 = 2,807 préstamos  
+    Esto representa el 28.07% de todos los préstamos, concentrado en sólo 5% del catálogo (10 de 200 libros).  
+
+- Sin libros sin préstamos registrados, el uso está distribuido al menos una vez por todo el catálogo; sin embargo, la elevada concentración en pocos títulos evidencia fuerte concentración de demanda (sesgo positivo).  
+
+- No se dispone información temporal de los préstamos (meses, días), por lo que no se puede identificar periodos punta o frecuencia temporal.  
+
+---
+
+### 4. Relación entre catálogo de libros y actividad de préstamos  
+
+- Los libros con mayor número de préstamos están vinculados a autores y editoriales especialmente demandados:  
+  - El top 10 libros es alineado con el top 10 autores y con editoriales predominantes en la demanda.  
+  - Las seis editoriales top concentran más del 90% de los préstamos totales, lo que indica que la demanda puede estar muy vinculada a la editorial y autor, además del tema o género del libro.  
+
+- El catálogo parece ofrecer suficiente variedad, ya que no se registran libros sin préstamo, pero la demanda manifiesta efectos señalados de concentración en pocas obras.  
+
+- Los géneros con más préstamos (ciencia ficción/terror, poesía, novela negra) coinciden con la presencia en los títulos top demasiado.  
+
+---
+
+### 5. Hallazgos críticos
+
+- Gran concentración en la demanda del catálogo: solo el 5% de los libros (top 10) concentra cerca de 28% de los préstamos.  
+- No hay libros sin préstamos, sin embargo, los restantes 90% de libros solo concentran 72% de la demanda, promediando menos de 40 préstamos por libro.  
+- Las editoriales top tienen un rol crucial, concentrando casi toda la demanda.  
+- Los géneros que más atraen préstamos están relacionados con la novela negra, fantasía, terror y poesía, reflejando tendencia clara de interés.  
+- No se dispone suficiente información temporal o de usuarios para análisis más profundo de frecuencia o comportamiento por usuarios.  
+
+---
+
+### 6. Recomendaciones para optimizar la gestión  
+
+1. **Focalizar adquisición y promoción en géneros y temáticas con alta demanda:**  
+   - Priorizar libros nuevos y colecciones en ciencia ficción, fantasía, novela negra y poesía para aprovechar tendencia actual de préstamos.  
+
+2. **Reevaluar títulos con baja rotación (< promedio 50 préstamos):**  
+   - Ejecutar auditoría cualitativa sobre esos libros para decidir sobre redistribución, promoción específica o retirada del catálogo.  
+
+3. **Estudiar ampliación o mayor stock de títulos exitosos:**  
+   - Revisar si la alta demanda en top 10 genera lista de espera o falta de ejemplares, y aumentar su disponibilidad.  
+
+4. **Colaborar con editoriales top para negociaciones y eventos:**  
+   - Fortalecer alianzas con Alfaguara, Salamandra y similares para lograr mejores condiciones y copias de novedades o éxitos asegurados.  
+
+5. **Implementar monitoreo periódico de indicadores clave:**  
+   - Recolectar datos temporales y segmentación usuarios para detectar picos semanales o mensuales y perfil usuarios, para mejorar planificación y dinámica del préstamo.  
+
+6. **Evaluar campañas de fomento a géneros menos demandados:**  
+   - Estimular préstamo de libros con préstamos bajos mediante promoción, especialmente en géneros no dominantes, para mejor equilibrio de uso.  
+
+---
+
+### Resumen Final
+
+Los datos muestran un catálogo activo con buena rotación general, sin libros inactivos, pero con una marcada concentración del uso en pocos libros, autores, géneros y editoriales. Se recomienda orientar la gestión hacia optimización de esos focos de éxito, complementada con acciones para ajustar la oferta a la demanda diversificando y promoviendo la rotación homogénea. La estrategia debe basarse en análisis continuo y en la recolección de información temporal y de usuarios para decisiones más precisas.
